@@ -2,11 +2,16 @@
 This is a small project that displays some new movies and their trailers. 
 
 ## How To Run
-1. Make sure to have python downloaded first 
-2. Clone the repository.
-3. Go to file called entertainment_center.py
-4. The site should open up in your default browser
+1. Make sure to have python downloaded first.
+2. Then click the clone button in GitHub.
+3. Click 'Download ZIP' or copy the URL for the repository.
+4. Type "git clone https://github.com/tgdev24/MovieTrailerSite.git" in the 
+   commandline
+4. Once repository is cloned, cd inside the repository and type 
+   "python entertainment_center.py" in the commandline
+5. The site should open up in your default browser.
 
 
 ## Note
-The program may not work properly on outdated browsers. 
+The program works on Google Chrome but does not render on Internet Explorer 
+due to browser issues. 
