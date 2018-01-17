@@ -4,7 +4,7 @@ This is a small project that displays some new movies and their trailers.
 ## How To Run
 1. Make sure to have python downloaded first.
 2. Then click the clone button in GitHub.
-3. Click 'Download ZIP' or copy the URL for the repository.
+3. Copy the URL for the repository.
 4. Type "git clone https://github.com/tgdev24/MovieTrailerSite.git" in the 
    commandline
 4. Once repository is cloned, cd inside the repository and type 
